@@ -1,0 +1,71 @@
+Species,PH,ArbPD,Ecomorph,Ecomorph2
+Anolis_ahli,103.8,8.5,TG,trunk-ground
+Anolis_aliniger,462.9,18.6,TC,trunk-crown
+Anolis_allisoni,310.3,12.1,TC,trunk-crown
+Anolis_allogus,128.4,8.1,TG,trunk-ground
+Anolis_allogus_Eco,88,4.5,TG,trunk-ground
+Anolis_alutaceus,92.8,3.1,GB,grass-bush
+Anolis_angusticeps,309.4,0.9,TW,twig
+Anolis_angusticeps_Eco,184.2,1.7,TW,twig
+Anolis_angusticeps2_Eco,210,9.9,TW,twig
+Anolis_argenteolus,209,23.1,U,unique (non-ecomorph)
+Anolis_argillaceus,230,1.8,U,unique (non-ecomorph)
+Anolis_bahorucoensis,150,2.7,GB,grass-bush
+Anolis_baleatus,1000,14,CG,crown-giant
+Anolis_barahonae,825,33,CG,crown-giant
+Anolis_bartschi,296.9,2,U,unique (non-ecomorph)
+Anolis_bremeri,NA,NA,TG,trunk-ground
+Anolis_brevirostris,102.5,21.1,T,trunk
+Anolis_centralis,154,5.4,U,unique (non-ecomorph)
+Anolis_chlorocyanus,357.4,10.6,TC,trunk-crown
+Anolis_christophei,195.9,27.2,U,unique (non-ecomorph)
+Anolis_coelestinus,252.5,20.9,TC,trunk-crown
+Anolis_cooki,149.6,7.8,TG,trunk-ground
+Anolis_cristatellus,118.9,13.3,TG,trunk-ground
+Anolis_cuvieri,325,8.5,CG,crown-giant
+Anolis_cybotes,142.6,24.5,TG,trunk-ground
+Anolis_distichus,257.4,18.3,T,trunk
+Anolis_equestris,402.9,15.3,CG,crown-giant
+Anolis_evermanni,335.2,35.3,TC,trunk-crown
+Anolis_garmani,350.1,33.2,CG,crown-giant
+Anolis_grahami,247.9,17.7,TC,trunk-crown
+Anolis_guazuma,230,0.9,TW,twig
+Anolis_gundlachi,133.9,33.5,TG,trunk-ground
+Anolis_homolechis,130.7,22.5,TG,trunk-ground
+Anolis_homolechis_Eco,75,3,TG,trunk-ground
+Anolis_insolitus,336.3,0.4,TW,twig
+Anolis_isolepis,713,0.3,TC,trunk-crown
+Anolis_jubar,99,10.3,TG,trunk-ground
+Anolis_krugi,64.3,5.7,GB,grass-bush
+Anolis_lineatopus,100.1,26,TG,trunk-ground
+Anolis_longitibialis,133,9,TG,trunk-ground
+Anolis_loysianus,78.5,24.5,T,trunk
+Anolis_lucius,156,51.3,U,unique (non-ecomorph)
+Anolis_luteogularis,563.6,11.3,CG,crown-giant
+Anolis_marcanoi,100,11.6,TG,trunk-ground
+Anolis_mestrei,174.4,11.4,TG,trunk-ground
+Anolis_noblei,600,9.3,CG,crown-giant
+Anolis_occultus,NA,NA,TW,twig
+Anolis_olssoni,46.1,1.5,GB,grass-bush
+Anolis_opalinus,137.5,24.2,TC,trunk-crown
+Anolis_ophiolepis,25,0.8,GB,grass-bush
+Anolis_paternus,NA,NA,TW,twig
+Anolis_poncensis,89.7,3.6,GB,grass-bush
+Anolis_porcatus,230,47.6,TC,trunk-crown
+Anolis_porcatus_Eco,173.6,8.6,TC,trunk-crown
+Anolis_porcus,867,3,CH,subgenus Chamaeleolis
+Anolis_pulchellus,29.6,1.4,GB,grass-bush
+Anolis_pumilus,189.4,2.2,U,unique (non-ecomorph)
+Anolis_rejectus,54,0.4,GB,grass-bush
+Anolis_ricordi,1033.3,11,CG,crown-giant
+Anolis_sagrei,41.8,15.4,TG,trunk-ground
+Anolis_sagrei_Eco,75,21.9,TG,trunk-ground
+Anolis_sagrei2_Eco,62.8,25,TG,trunk-ground
+Anolis_semilineatus,NA,NA,GB,grass-bush
+Anolis_singularis,300,8,TC,trunk-crown
+Anolis_smaragdinus,NA,NA,TC,trunk-crown
+Anolis_strahmi,NA,NA,TG,trunk-ground
+Anolis_stratulus,701.3,9.6,TC,trunk-crown
+Anolis_valencienni,231.2,6,TW,twig
+Anolis_vanidicus,40.5,0.2,GB,grass-bush
+Anolis_vermiculatus,176.4,15.4,U,unique (non-ecomorph)
